@@ -1,0 +1,28 @@
+For first milestone, you can check it with testing table.
+  UIs
+- App
+  login/signup with logo icon(completed)
+  Home, Add mode, sub UI (completed)
+  Add member (completed)
+  Add sensor (completed)
+  Account Detail (completed)
+  Notification Setting (completed)
+- Web
+  login/register (completed)
+  user list page (completed)
+  user detail page (completed)
+
+  Functions
+- App
+  register with user info and phone verification code using twilio (completed)
+  login with email and password (completed)
+  Notification between App and Mqtt server (completed)
+  Console log to show data from mqtt server (completed)
+  connection to the hub with qr code (not completed)  
+  Add member (not completed)
+- Web Admin Page
+  Authentication page (completed)
+  User Detail Display ( completed)
+  Delete User (completed)
+  User member (not completed)
+  Notification log (not completed)
